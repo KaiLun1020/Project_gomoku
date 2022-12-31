@@ -31,4 +31,4 @@ module project_gomoku(output reg [7:0] DATA_R//紅色燈, DATA_G//綠色燈, DAT
  b,r->接到 16 bits LED}  
 
 
-## 功能介紹DEMO影片連結:https://drive.google.com/file/d/1SEnBGY2eQH9t7jiU8HJ98v-7J58BFQmq/view?usp=sharing
+### 功能介紹DEMO影片連結:https://drive.google.com/file/d/1SEnBGY2eQH9t7jiU8HJ98v-7J58BFQmq/view?usp=sharing
